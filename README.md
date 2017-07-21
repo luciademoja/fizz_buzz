@@ -9,4 +9,4 @@ Includes a spec file and rspec in the gemfile to test all possible scenarios.
  * load the main file typing `load "fizz_buzz.rb"`
  * ask for the number you want to be evaluated inside of the function -> fizz_buzz(your_number)
  
- `For fizz_buzz(5)` irb should return "fizz" and so on.
+ For `fizz_buzz(5)` irb should return "buzz" and so on.
